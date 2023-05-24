@@ -371,20 +371,9 @@ header .navbar ul li a:hover{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.lowercase {
+    text-transform: lowercase;
+    }
 
 
 
