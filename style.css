@@ -15,7 +15,7 @@
 }
 
 *::selection{
-    background:var(--yellow);
+    background:var(--orange);
     color:#333;
 }
 
@@ -33,7 +33,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-    background:var(--yellow);
+    background:var(--orange);
 }
 
 body{
@@ -63,7 +63,7 @@ section{
 }
 
 .btn:hover{
-    background:var(--yellow);
+    background:var(--orange);
 }
 
 .heading{
@@ -76,7 +76,7 @@ section{
 }
 
 .heading span{
-    color:var(--yellow);
+    color:var(--orange);
 }
 
 header{
@@ -99,7 +99,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid var(--yellow);
+    border:.7rem solid var(--orange);
 }
 
 header .user .name{
@@ -133,7 +133,7 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-    background:var(--yellow);
+    background:var(--orange);
 }
 
 #menu{
@@ -166,7 +166,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1 span{
-    color:var(--yellow);
+    color:var(--orange);
 }
 
 .home p{
@@ -218,7 +218,7 @@ header .navbar ul li a:hover{
 
 .about .row .counter .box span{
     font-size: 4rem;
-    color:var(--yellow);
+    color:var(--orange);
 }
 
 .about .row .counter .box h3{
@@ -273,7 +273,7 @@ header .navbar ul li a:hover{
     text-align: center;
     font-size: 2rem;
     color:#fff;
-    background:var(--yellow);
+    background:var(--orange);
 }
 
 .portfolio .box-container{
@@ -360,7 +360,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:var(--yellow);
+    color:var(--orange);
 }
 
 .top{
